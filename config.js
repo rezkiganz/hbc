@@ -5,13 +5,13 @@
 // RECODE BY ZIFABOTZ
 
 //=============『 Utama 』================== //
-global.owner = ['6285828377610'] //ganti pakai nomormu biar bot berfungsi
+global.owner = ['6288242918747'] //ganti pakai nomormu biar bot berfungsi
 global.mods = ['6285828764046'] //ganti pakai nomormu biar bot berfungsi
 global.prems = ['6285828377610'] //ganti pakai nomormu biar bot berfungsi
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'ᴹᴿ᭄ ZifaOffcོ_1ঔৣ꧂'
-global.numberowner = '6285828377610' //ganti pakai nomor mu
+global.numberowner = '6288242918747' //ganti pakai nomor mu
 global.instagram = 'https://instagram.com/zalfapontianak' //ganti pakai Instagram mu
 global.github = 'https://github.com/Botynyakamu' //ganti aja pakai githubmu
 global.tt = 'https://vt.tiktok.com/ZSdc6Dht6/' //ganti aja pakai tiktok mu
